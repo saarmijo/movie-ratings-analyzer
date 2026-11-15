@@ -4,7 +4,7 @@ The Movie Ratings Analyzer is a program that organizes movie information and ana
 
 I created this project to improve my programming skills and learn how to use R for working with data. I wanted to practice organizing information, writing functions, using loops, and displaying results in different ways. The program calculates the overall average rating, finds the highest-rated movie, compares ratings by genre, and creates charts to make the information easier to understand. It also uses a CSV file to save and load the movie collection.
 
-[Software Demo Video](ADD YOUR YOUTUBE LINK HERE)
+[Software Demo Video](https://youtu.be/m2_Y48MaXao)
 
 # Development Environment
 
